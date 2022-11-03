@@ -1,0 +1,43 @@
+
+    ul,li {
+  display: inline-block;
+}
+ul {
+  margin-right: 10px;
+}
+    .iteam {
+      border-style: solid;
+      width: 100px;
+      text-align: center;
+      padding: 40px;
+      margin: 20px;
+      border-radius: 50%;
+    }
+    #paragraphe {
+      text-indent: 30px;
+      text-transform: capitalize;
+      line-height: 100px;
+      font-family: Roboto;
+    }
+    .section1 p {
+      border-style: double;
+      width: 50%;
+      margin: auto;
+    }
+
+    h3 {
+      color: rgb(195, 0, 255);
+    }
+    {
+      background-color: rgb(30, 30, 17);
+    }
+
+  ul {
+  margin-right: 40px;
+  }
+  body {
+  background-image: url("https://i.pinimg.com/564x/b4/a5/e7/b4a5e70273a2a7ee7e5bb4606339cecc.jpg");
+  background-repeat: no-repeat;
+ background-size: cover; 
+  background-position: 80% 80%;
+}
